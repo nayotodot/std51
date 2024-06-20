@@ -1,0 +1,16 @@
+return {
+	close   = require "std51.io.close",
+	flush   = require "std51.io.flush",
+	input   = require "std51.io.input",
+	lines   = require "std51.io.lines",
+	open    = require "std51.io.open",
+	output  = require "std51.io.output",
+	popen   = require "std51.io.popen",
+	read    = require "std51.io.read",
+	stderr  = require "std51.io.stderr",
+	stdin   = require "std51.io.stdin",
+	stdout  = require "std51.io.stdout",
+	tmpfile = require "std51.io.tmpfile",
+	type    = require "std51.io.type",
+	write   = require "std51.io.write",
+};
